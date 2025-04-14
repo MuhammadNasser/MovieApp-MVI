@@ -66,4 +66,6 @@ Unit tests are written for business logic. You can run the tests by executing th
 ```
 
 ## 📸 **Screenshots**
-*(Add your screenshots here)*
+![Home Screen](screenshots/home_screen_grid.png)
+![Home Screen](screenshots/home_screen_list.png)
+![Details Screen](screenshots/details_screen.png)
